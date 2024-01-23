@@ -1,0 +1,46 @@
+.innerbox{
+    height: 25rem;
+    width: 25rem;
+    background-color:whitesmoke;
+    border-radius: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.mainbox{
+    height: 50rem;
+    width: 100rem;
+    background: linear-gradient(45deg, #ff8c00, #ff0080);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+i{
+    font-size: 2rem;
+}
+.btn{
+    background:linear-gradient(45deg, #ff8c00, #ff0080);
+    height: 3rem;
+    width: 10rem;
+    border-radius: 2rem; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor:pointer;
+
+}
+.btn1 {
+    background-color: lightyellow;
+    height: 3rem;
+    width: 10rem;
+    border-radius: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+}
